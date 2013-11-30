@@ -1,0 +1,12 @@
+# .gitignore
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+*/*xcodeproj/*.xcworkspace/
+*/*.xcodeproj/xcshareddata/
+*/*.xcodeproj/xcuserdata/
+
+!bin/data/
+*.app
+build/
+!README*
